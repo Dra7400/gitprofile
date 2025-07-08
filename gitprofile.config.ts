@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of David R. Adams',
-    description: '',
+    description: 'Highly skilled Information Technology Professional with a broad range of experience over the past 30 years. From entry level support to executive management. Experienced in designing, implementing and maintaining complex systems. Also Proficient in both front-end and back-end development, expertise in multiple programming languages and frameworks, design, administration as well as troubleshooting. adept at working in a fast-paced environment and collaborating with cross-functional teams to deliver projects on time and within budget.',
     imageURL: '',
   },
   social: {
@@ -100,61 +100,193 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Imagination Guild, LLC',
+      position: 'Consultant/Developer',
+      from: '2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'http://www.imaginationguild.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Freelance',
+      position: 'Full stack Developer / Consultant',
+      from: '2010',
+      to: 'Present',
+    },
+    {
+      company: 'B.I.S.',
+      position: 'Senior Information Systems Engineer',
+      from: '2014',
+      to: '2020',
+    },
+        {
+      company: 'Gulf Distributing Holdings',
+      position: 'Director of Information Technology',
+      from: '2010',
+      to: '2014',
+    },
+        {
+      company: 'Callis Communications',
+      position: 'Director of Sales Engineering / Technical Support',
+      from: '2009',
+      to: '2010',
+    },
+    {
+      company: 'LCSI',
+      position: 'Senior Systems Engineer/Developer',
+      from: '2005',
+      to: '2009',
+    },
+    {
+      company: 'Alabama Marine Mammal Stranding Network',
+      position: 'Director of Operations/Chief Scientist/Principal Investigator',
+      from: '2005',
+      to: '2008',
+    },
+        {
+      company: 'Keystone Capital Management',
+      position: 'IT Manager',
+      from: '2004',
+      to: '2005',
+    },
+        {
+      company: 'Bay Tech, LLC',
+      position: 'Senior Information Systems Engineer/Developer',
+      from: '2001',
+      to: '2004',
+    },
+        {
+      company: 'Inchcape Shipping Services',
+      position: 'Technical Project Manager/Disaster Recovery Specialist',
+      from: '2000',
+      to: '2001',
+    },
+    {
+      company: 'United States Army Corps of Engineers',
+      position: 'Network Administrator/Communications Engineer',
+      from: '1999',
+      to: '2000',
+    },
+        {
+      company: 'Ameristar Casino',
+      position: 'M.I.S. Communications, Electronics, IT Technician',
+      from: '1995',
+      to: '1999',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      Over 70: 'I've held over 70+ certifications in the IT field over the last 30 years such as: Programming (Python, JavaScript, HTML, CSS, SQL,etc) Comptia A+, Network+, Security+, Avaya, IP Office, Voicemail Pro, Cisco, Microsoft, Foundry, Sonicwall, Xen Server, Converged Technologies Professional, Citrix, NEC, Neax 2400 ICS/IVS, Mitel, SX2000, Disaster Recovery/Business Continuity, Various Military CBT Certifications etc, etc. Honestly, too many to remember them all. I've listed the most recent certs individually',
+    },
+     {
+      agency: 'London App Brewery',
+      Cert: 'Web Development',
+    },
+       {
+      agency: 'London App Brewery',
+      Cert: '100 Days of Code Challenge - Python',
+    },
+       {
+      agency: 'Noble Work Foundation',
+      Cert: 'Python Zero to Hero',
+    },
+       {
+      agency: 'Noble Work Foundation',
+      Cert: 'Python for Ethical Hackers',
+    },
+       {
+      agency: 'HackerRank',
+      Cert: 'CSS',
+    },
+       {
+      agency: 'HackerRank',
+      Cert: 'JavaScript Intermediate',
+    },
+       {
+      agency: 'HackerRank',
+      Cert: 'JavaScript Basic',
+    },
+         {
+      agency: 'HackerRank',
+      Cert: 'Python',
+    },
+         {
+      agency: 'Udemy',
+      Cert: 'Python for Data Science and Machine',
+    },
+           {
+      agency: 'Udemy',
+      Cert: 'Ethical Hacking',
+    },
+           {
+      agency: 'Citrix',
+      Cert: 'Xenserver',
+    },
+             {
+      agency: 'Microsoft',
+      Cert: 'MCSE',
+    },
+            {
+      agency: 'Microsoft',
+      Cert: 'MCP',
+    },
+            {
+      agency: 'SonicWALL',
+      Cert: 'SNSA',
+    },
+            {
+      agency: 'SonicWALL',
+      Cert: 'SNSP',
+    },
+            {
+      agency: 'CompTIA',
+      Cert: 'Coverged Technology Professional',
+    },
+            {
+      agency: 'CompTIA',
+      Cert: 'Network +',
+    },
+            {
+      agency: 'CompTIA',
+      Cert: 'Security +',
+    },
+            {
+      agency: 'CompTIA',
+      Cert: 'A+',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Massachusets Institute of Technology',
+      degree: 'Certificate - Computational Thinking and Data Science',
+    },
+     {
+      institution: 'Massachusets Institute of Technology',
+      degree: 'Certificate - Computational Thinking Using Python',
+    },
+     {
+      institution: 'Massachusets Institute of Technology',
+      degree: 'Certificate - Computer Science and Programming Using Python',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'The University of Southern Mississippi',
+      degree: 'BASc',
+    },
+     {
+      institution: 'Hinds Community College',
+      degree: 'AA',
     },
   ],
-  publications: [
+  military service: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+      branch: 'United States Navy - R',
+      country: 'US',
+      rank: 'Chief Petty Officer',
+      rate: 'Information Technology',
+      group: 'Navy Special Warefare Group 4',
+      unit: 'Mobile Inshore Undersea Warfare Unit 212',
+      unit: 'SBU 22',
+      time: '1991 - 2009',
+      },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
