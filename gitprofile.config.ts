@@ -273,7 +273,7 @@ const CONFIG = {
       degree: 'AA',
     },
   ],
-  military service: [
+  military: [
     {
       branch: 'United States Navy - R',
       country: 'US',
