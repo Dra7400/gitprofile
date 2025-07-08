@@ -174,9 +174,6 @@ const CONFIG = {
     },
   ],
   certifications: [
-    {
-      Over 70: "I've held over 70+ certifications in the IT field over the last 30 years such as: Programming (Python, JavaScript, HTML, CSS, SQL,etc) Comptia A+, Network+, Security+, Avaya, IP Office, Voicemail Pro, Cisco, Microsoft, Foundry, Sonicwall, Xen Server, Converged Technologies Professional, Citrix, NEC, Neax 2400 ICS/IVS, Mitel, SX2000, Disaster Recovery/Business Continuity, Various Military CBT Certifications etc, etc. Honestly, too many to remember them all. I've listed the most recent certs individually",
-    },
      {
       agency: 'London App Brewery',
       Cert: 'Web Development',
